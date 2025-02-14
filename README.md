@@ -1,2 +1,3 @@
-# Arto_Games
-All the games made by Arto_Team
+# Arto_Launcher
+Launcher used for manage and use all Arto Games
+
